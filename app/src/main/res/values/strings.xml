@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spi</string>
+    <string-array name="liste_pays">
+    <item>Tunisie</item>
+    <item>Algerie</item>
+    <item>Maroc</item>
+    <item>Italie</item>
+    </string-array>
+</resources>
